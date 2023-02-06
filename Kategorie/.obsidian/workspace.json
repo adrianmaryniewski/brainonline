@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "193b96f04c73e2a2",
+    "id": "6279e2b760a89cbe",
     "type": "split",
     "children": [
       {
-        "id": "b52b494a436dd221",
+        "id": "fd0966b18b37e83b",
         "type": "tabs",
         "children": [
           {
-            "id": "9cf88fd4d1ea70cd",
+            "id": "e5200eab758eb659",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nagłówki HTTP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c5614eed0981d581",
+    "id": "5047a409a415ab86",
     "type": "split",
     "children": [
       {
-        "id": "23ccd4674805df0e",
+        "id": "b74c60921e7d8ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "06bc42e6505cde32",
+            "id": "0d14ae47ea527293",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "c725a4009ee1e51e",
+            "id": "762e490e26ef8443",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "da93ccd47a4a6276",
+            "id": "69955a40d488a1d2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "826c462886abe169",
+    "id": "717a62426f4b4251",
     "type": "split",
     "children": [
       {
-        "id": "3675e1ecf76c2769",
+        "id": "12b87c8e6e51eb79",
         "type": "tabs",
         "children": [
           {
-            "id": "ac8aaf4ba977b68e",
+            "id": "d2981717850cfef6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nagłówki HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "24e70e929eb37a0c",
+            "id": "af8378c52a7b29d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nagłówki HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8027430c887c999f",
+            "id": "eaa1a1156dddc409",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "8647fba65ea175d8",
+            "id": "36e7549292c0e73c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nagłówki HTTP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cf88fd4d1ea70cd",
+  "active": "e5200eab758eb659",
   "lastOpenFiles": []
 }
